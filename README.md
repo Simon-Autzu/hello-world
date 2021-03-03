@@ -1,2 +1,2 @@
 # hello-world
-a place to start
+A place to start at Autzu. Let's go!!
